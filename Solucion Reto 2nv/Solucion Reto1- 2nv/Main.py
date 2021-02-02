@@ -4,13 +4,6 @@ Created on Fri Jan 29 17:15:23 2021
 
 @author: Andres
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 26 23:49:27 2021
-
-@author: Daniel Baron
-"""
-
 import extraccion_info_pok as eip
 
 #Url de donde se extrae la información
